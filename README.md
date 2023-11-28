@@ -1,7 +1,9 @@
 # 基本信息 Basic Information
 
-就职于佛山地铁 2021年 至今(https://www.fmetro.net/) in FoShan.
-本科，自动化学士学位
+学历:本科
+学位：自动化学士学位
+就职公司：佛山地铁(https://www.fmetro.net/) 
+就职时间：2021年——至今
 
 # 个人频道 Channels
 
