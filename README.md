@@ -1,9 +1,10 @@
 # 基本信息 Basic Information
 
-* 学历:本科
-* 学位：自动化学士学位
-* 就职公司：佛山地铁(https://www.fmetro.net/) 
-* 就职时间：2021年——至今
+* 学历Education:本科Bachelor
+* 专业Major：自动化Automation
+* 学位Degree：工学学士学位Bachelor of Engineering
+* 就职公司Induction：佛山地铁Foshan Metro(https://www.fmetro.net/) 
+* 就职时间Induction Time：2021年——至今
 
 # 个人频道 Channels
 
